@@ -26,6 +26,7 @@ int main(void) {
 	scanf("%d", &choice);
 	printf("\n");
 	printf("\n\n");
+printf("\n\n\n");
 
 	switch (choice)
 	{
