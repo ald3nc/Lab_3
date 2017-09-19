@@ -24,6 +24,7 @@ int main(void) {
 	printf("enter 4 for division\n");
 	printf("enter 5 to exit\n");
 	scanf("%d", &choice);
+	printf("\n");
 
 	switch (choice)
 	{
