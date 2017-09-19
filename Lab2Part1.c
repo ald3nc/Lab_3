@@ -25,6 +25,7 @@ int main(void) {
 	printf("enter 5 to exit\n");
 	scanf("%d", &choice);
 	printf("\n");
+	printf("\n\n");
 
 	switch (choice)
 	{
